@@ -27,7 +27,7 @@ that enhance their playing experience.
 
 #### Purchasing Analysis (Gender)
 
-* The below each broken by gender
+The below each broken by gender
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
@@ -35,7 +35,7 @@ that enhance their playing experience.
 
 #### Age Demographics
 
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
+The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
@@ -43,7 +43,7 @@ that enhance their playing experience.
 
 #### Top Spenders
 
-* Identify the top 5 spenders in the game by total purchase value, then list (in a table):
+Identify the top 5 spenders in the game by total purchase value, then list (in a table):
   * SN
   * Purchase Count
   * Average Purchase Price
@@ -51,7 +51,7 @@ that enhance their playing experience.
 
 #### Most Popular Items
 
-* Identify the 5 most popular items by purchase count, then list (in a table):
+Identify the 5 most popular items by purchase count, then list (in a table):
   * Item ID
   * Item Name
   * Purchase Count
@@ -60,7 +60,7 @@ that enhance their playing experience.
 
 #### Most Profitable Items
 
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
+Identify the 5 most profitable items by total purchase value, then list (in a table):
   * Item ID
   * Item Name
   * Purchase Count
@@ -85,7 +85,7 @@ future school budgets and priorities.
 **Final Report** includes the following:
 #### District Summary
 
-* High level snapshot (in table form) of the district's key metrics, including:
+High level snapshot (in table form) of the district's key metrics, including:
   * Total Schools
   * Total Students
   * Total Budget
@@ -97,7 +97,7 @@ future school budgets and priorities.
 
 #### School Summary
 
-* Overview table that summarizes key metrics about each school, including:
+Overview table that summarizes key metrics about each school, including:
   * School Name
   * School Type
   * Total Students
@@ -111,7 +111,7 @@ future school budgets and priorities.
 
 #### Top Performing Schools (By Passing Rate)
 
-* Table that highlights the top 5 performing schools based on Overall Passing Rate. including:
+Table that highlights the top 5 performing schools based on Overall Passing Rate. including:
   * School Name
   * School Type
   * Total Students
@@ -137,7 +137,7 @@ future school budgets and priorities.
 
 #### Scores by School Spending
 
-* Table that breaks down school performances based on average Spending Ranges (Per Student). 
+Table that breaks down school performances based on average Spending Ranges (Per Student). 
 4 reasonable bins were used to group school spending. Table includes:
   * Average Math Score
   * Average Reading Score
